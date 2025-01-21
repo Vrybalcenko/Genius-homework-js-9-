@@ -1,0 +1,6 @@
+.parent, .child, .item{
+  margin: 30px;
+  padding: 10px;
+  outline: 1px solid black;
+}
+
